@@ -34,7 +34,6 @@ export default {
             img {
                 max-width: 100%;
                 max-height: 100%;
-                // border-radius: 50%;
             }
     }
 
